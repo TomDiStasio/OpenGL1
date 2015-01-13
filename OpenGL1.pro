@@ -1,6 +1,3 @@
-#include <iosream>
-
-int main()
-{
-    std::cout<<"hello world\n";
-}
+QT -= core
+TARGET=OpenGL1
+SOURCES += main.cpp
